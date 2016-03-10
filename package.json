@@ -1,0 +1,16 @@
+{
+  "name": "browsing_app",
+  "version": "0.0.1",
+  "description": "browse",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "browser"
+  ],
+  "author": "taijiman",
+  "license": "MIT",
+  "dependencies": {}
+}
